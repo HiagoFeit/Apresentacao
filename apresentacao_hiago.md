@@ -2,82 +2,126 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Meu nome é **Hiago Feitoza**, tenho **22 anos** e sou formado em **Administração**. Atualmente, trabalho na área de **Segurança da Informação** na empresa **4C Digital**, onde aplico e aprimoro meus conhecimentos técnicos diariamente no ambiente corporativo.
+Olá. Meu nome é **Hiago Feitoza** e atuo na área de **Segurança da Informação** na **4C Digital**, aplicando conhecimentos técnicos em contexto corporativo e evoluindo continuamente em tecnologia.
 
-Sou graduando em **Ciência da Computação**, com o objetivo de me tornar um profissional completo na área de tecnologia. Tenho grande interesse por **análise de dados**, **desenvolvimento de software**, **segurança digital** e **inteligência artificial**.
+Sou graduado em **Administração** e graduando em **Ciência da Computação**, unindo visão analítica, organização de processos e capacidade técnica para construir soluções voltadas a **automação**, **análise de dados**, **desenvolvimento de software** e **segurança digital**.
 
-Possuo **conhecimento avançado em Excel**, domínio do **Pacote Office**, e experiência prática com **Python** e **automatizações** de processos. Estou sempre em busca de novas ferramentas, linguagens e metodologias que me ajudem a crescer técnica e profissionalmente.
+Tenho experiência com **Python**, **Excel avançado**, **Pacote Office** e **automatização de processos**, buscando sempre transformar rotinas operacionais em fluxos mais eficientes, confiáveis e escaláveis.
 
-Este repositório representa meu processo contínuo de aprendizado e evolução. Aqui, compartilho **projetos, estudos e práticas** que fazem parte da minha trajetória como desenvolvedor em formação.
+Este repositório representa minha trajetória de evolução profissional. Aqui compartilho **projetos, estudos e práticas** que reforçam meu desenvolvimento técnico e minha construção de carreira na área de tecnologia.
 
 ---
 
-## 🚀 Habilidades
+## 🚀 Áreas de Interesse
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/123PAU34)
+- Segurança da Informação
+- Automação de Processos
+- Análise de Dados
+- Desenvolvimento de Software
+- Inteligência Artificial
+
+---
+
+## 🛠️ Habilidades e Ferramentas
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HiagoFeit)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Automatizações](https://img.shields.io/badge/Automatizações-FF8C00?style=for-the-badge&logo=fastapi&logoColor=white)
+![Automação](https://img.shields.io/badge/Automação-FF8C00?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Segurança da Informação](https://img.shields.io/badge/Segurança%20da%20Informação-8B0000?style=for-the-badge&logo=trustpilot&logoColor=white)
 ![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-800080?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 📘 Tecnologias em Estudo
+## 📘 Em desenvolvimento
 
-| Tecnologia             | Descrição                                                                 |
-|------------------------|---------------------------------------------------------------------------|
-| ![Ethical Hacking](https://img.shields.io/badge/Hackeamento%20Ético-000000?style=for-the-table&logo=hack-the-box&logoColor=white) | Estudando fundamentos de segurança ofensiva, testes de penetração e práticas éticas. |
-| ![Python](https://img.shields.io/badge/Python%20Avançado-3776AB?style=for-the-table&logo=python&logoColor=white) | Aprimorando conhecimentos em automações, análise de dados e desenvolvimento de scripts. |
-| ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-table&logo=kalilinux&logoColor=white) | Praticando com ferramentas de segurança, análise forense e testes de vulnerabilidade. |
+| Tecnologia | Descrição |
+|-----------|-----------|
+| Python | Evolução em automações, scripts, análise de dados e desenvolvimento de soluções práticas. |
+| Segurança da Informação | Estudos contínuos em boas práticas, análise de riscos, segurança ofensiva e proteção de ambientes. |
+| Kali Linux | Prática com ferramentas de segurança, testes e exploração controlada em ambientes de estudo. |
+| Análise de Dados | Aplicação de lógica analítica para interpretação de dados e apoio à tomada de decisão. |
+
+---
+
+## 📂 Objetivo deste perfil
+
+Meu objetivo no GitHub é documentar minha evolução técnica por meio de projetos que demonstrem na prática minhas competências em:
+
+- automação
+- análise de dados
+- segurança da informação
+- desenvolvimento de soluções úteis para o ambiente corporativo
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-feitoza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-feitoza-125350277/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hiago.feit50boy@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521985515754)
 
 ---
 
-## 🌍 About Me (English)
+## 🌍 About Me
 
-Hello! My name is **Hiago Feitoza**, I'm **22 years old** and I hold a degree in **Business Administration**. I currently work in the **Information Security** field at **4C Digital**, where I apply and expand my technical knowledge in a corporate environment.
+Hello. My name is **Hiago Feitoza** and I work in **Information Security** at **4C Digital**, applying technical knowledge in a corporate environment and continuously growing in technology.
 
-I am pursuing a degree in **Computer Science** to become a well-rounded professional in the tech industry. I'm particularly interested in **data analysis**, **software development**, **digital security**, and **artificial intelligence**.
+I hold a degree in **Business Administration** and I am currently pursuing a degree in **Computer Science**, combining analytical thinking, process organization and technical skills to build solutions focused on **automation**, **data analysis**, **software development** and **digital security**.
 
-I have **advanced Excel skills**, solid command of the **Microsoft Office suite**, and hands-on experience with **Python** and **process automation**. I'm always looking to learn new tools, languages, and methodologies to grow both technically and professionally.
+I have experience with **Python**, **advanced Excel**, **Microsoft Office** and **process automation**, always aiming to turn operational routines into more efficient, reliable and scalable workflows.
 
-This repository is part of my continuous learning process, where I share **projects, studies, and practices** that are part of my journey as a developer in training.
+This repository represents my professional growth journey. Here I share **projects, studies and practices** that strengthen my technical development and career path in technology.
 
 ---
 
-## 🚀 Skills
+## 🚀 Areas of Interest
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/123PAU34)
+- Information Security
+- Process Automation
+- Data Analysis
+- Software Development
+- Artificial Intelligence
+
+---
+
+## 🛠️ Skills and Tools
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HiagoFeit)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-FF8C00?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Information Security](https://img.shields.io/badge/Information%20Security-8B0000?style=for-the-badge&logo=trustpilot&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-800080?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 📘 Currently Studying
+## 📘 Currently Developing
 
-| Technology             | Description                                                                 |
-|------------------------|---------------------------------------------------------------------------|
-| ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-000000?style=for-the-table&logo=hack-the-box&logoColor=white) | Studying the fundamentals of offensive security, penetration testing, and ethical practices. |
-| ![Python](https://img.shields.io/badge/Advanced%20Python-3776AB?style=for-the-table&logo=python&logoColor=white) | Enhancing skills in automation, data analysis, and scripting. |
-| ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-table&logo=kalilinux&logoColor=white) | Practicing with security tools, forensic analysis, and vulnerability testing. |
+| Technology | Description |
+|-----------|-------------|
+| Python | Improving automation, scripting, data analysis and practical solution development. |
+| Information Security | Continuous learning in best practices, risk analysis, offensive security and environment protection. |
+| Kali Linux | Practicing with security tools, testing and controlled exploration in learning environments. |
+| Data Analysis | Applying analytical reasoning to interpret data and support decision-making. |
+
+---
+
+## 📂 Profile Purpose
+
+My goal on GitHub is to document my technical growth through projects that demonstrate in practice my skills in:
+
+- automation
+- data analysis
+- information security
+- development of useful solutions for corporate environments
 
 ---
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-feitoza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-feitoza-125350277/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hiago.feit50boy@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521985515754)
